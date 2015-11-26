@@ -11,6 +11,10 @@ All of the scripts are presented as bash scripts - you are encouraged to read an
 
 ##### To use them
 
+```
+
 clone this repo to your virtual machine
 cd virtual-machine-scripts
 chmod u+x \*.sh
+
+```
