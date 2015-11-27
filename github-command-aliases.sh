@@ -27,4 +27,4 @@ echo "
 	st = status
 	stm = status --untracked=no
 	stfu = status --untracked=no
-  " >> gitconfig
+  " >> ~/.gitconfig
