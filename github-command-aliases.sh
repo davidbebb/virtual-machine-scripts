@@ -21,6 +21,7 @@ echo "
 	mnff = merge --no-ff
 	mt = mergetool
 	p = format-patch -1
+	pom = pull origin master
 	serve = !git daemon --reuseaddr --verbose  --base-path=. --export-all ./.git
 	sra = svn rebase --all
 	sh = !git-sh
