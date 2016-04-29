@@ -27,4 +27,6 @@ echo "
 	st = status
 	stm = status --untracked=no
 	stfu = status --untracked=no
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+
   " >> ~/.gitconfig
