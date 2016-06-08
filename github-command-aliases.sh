@@ -29,5 +29,7 @@ echo "
 	stm = status --untracked=no
 	stfu = status --untracked=no
 	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+        unstage = reset HEAD --
+
 
   " >> ~/.gitconfig
