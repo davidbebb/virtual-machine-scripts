@@ -9,5 +9,4 @@ apm install git-diff-details
 apm install git-time-machine
 apm install linter-js-yaml
 apm install linter-jsonlint
-apm install markdown-preview
 apm install merge-conflicts
